@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Release Engineering and Automation.
 - 🌱 I’m currently learning SALT and working on some Azure Certifications.
 - 💞️ I’m looking to collaborate on anything to help me learn...
-- 📫 How to reach me ...
+- 📫 How to reach me - Email me.
 
 <!---
 siciliaf1320/siciliaf1320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
